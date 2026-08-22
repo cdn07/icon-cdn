@@ -1,0 +1,202 @@
+.icon {
+  display: inline-block;
+  max-width: 500px;
+  max-height: 500px;
+  background-color: currentColor;
+
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+
+/* facebook Icon */
+
+.icon-facebook-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/facebook-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/facebook-1.svg");
+}
+
+/* instagram Icon */
+
+.icon-instagram-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/instagram-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/instagram-1.svg");
+}
+
+/* twitter Icon */
+
+.icon-twitter-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/twitter-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/twitter-1.svg");
+}
+
+.icon-twitter-2 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/twitter-2.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/twitter-2.svg");
+}
+
+/* linkedin Icon */
+
+.icon-linkedin-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/linkedin-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/linkedin-1.svg");
+}
+
+/* world Icon */
+
+.icon-world-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/world-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/world-1.svg");
+}
+
+/* check circle Icon */
+
+.icon-check-circle-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/check-circle-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/check-circle-1.svg");
+}
+
+.icon-check-circle-2 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/check-circle-2.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/check-circle-2.svg");
+}
+
+.icon-check-circle-3 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/check-circle-3.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/check-circle-3.svg");
+}
+
+.icon-check-circle-4 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/check-circle-4.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/check-circle-4.svg");
+}
+
+/* badge check  Icon */
+
+.icon-badge-check-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/badge-check-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/badge-check-1.svg");
+}
+
+.icon-badge-check-2 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/badge-check-2.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/badge-check-2.svg");
+}
+
+/* circle user  Icon */
+
+.icon-circle-user-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/circle-user-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/circle-user-1.svg");
+}
+
+.icon-circle-user-2 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/circle-user-2.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/circle-user-2.svg");
+}
+
+/* user Icon */
+
+.icon-user-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/user-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/user-1.svg");
+}
+
+.icon-user-2 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/user-2.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/user-2.svg");
+}
+
+/* circle phone  Icon */
+
+.icon-circle-phone-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/circle-phone-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/circle-phone-1.svg");
+}
+
+/* phone Icon */
+
+.icon-phone-call-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/phone-call-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/phone-call-1.svg");
+}
+
+/* messages Icon */
+
+.icon-messages-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/messages-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/messages-1.svg");
+}
+
+.icon-messages-2 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/messages-2.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/messages-2.svg");
+}
+
+/* envelope Icon */
+
+.icon-envelope-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/envelope-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/envelope-1.svg");
+}
+
+/* comment-1 Icon */
+
+.icon-comment-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/comment-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/comment-1.svg");
+}
+
+.icon-comment-2 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/comment-2.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/comment-2.svg");
+}
+
+.icon-comment-3 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/comment-3.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/comment-3.svg");
+}
+
+.icon-comment-4 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/comment-4.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/comment-4.svg");
+}
+
+.icon-comment-5 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/comment-5.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/comment-5.svg");
+}
+
+/* paper plane Icon */
+
+.icon-paper-plane-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/paper-plane-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/paper-plane-1.svg");
+}
+
+/* user-headset-1 Icon */
+
+.icon-user-headset-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/user-headset-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/user-headset-1.svg");
+}
+
+.icon-user-headset-2 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/user-headset-2.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/user-headset-2.svg");
+}
+
+/* settings sliders  Icon */
+
+.icon-settings-sliders-1 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/settings-sliders-1.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/settings-sliders-1.svg");
+}
+
+.icon-settings-sliders-2 {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/settings-sliders-2.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/cdn07/icon-cdn/icons/settings-sliders-2.svg");
+}
